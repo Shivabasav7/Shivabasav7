@@ -134,7 +134,7 @@ I am particularly interested in **AI for population health, radiology, and decis
 <i>“Healthcare AI must be clinically grounded, ethically responsible, and interoperable by design.”</i>
 </p>
 
-## Hi there 👋
+<!--## Hi there 👋
 
 <!--
 **Shivabasav7/Shivabasav7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
